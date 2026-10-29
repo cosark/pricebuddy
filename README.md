@@ -81,6 +81,12 @@ PriceBuddy is designed to be useful from more than the web UI. The tool ecosyste
 
 All you need is [Docker](https://www.docker.com/).
 
+### One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/PriceBuddy/)
+
+### Docker Compose
+
 Download [docker-compose.yml](docker-compose.yml), adjust it for your environment, then start PriceBuddy:
 
 ```shell
